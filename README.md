@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agomatsa Motor Vault (PHP + MySQL)
 
 A fully responsive vintage car showcase website with:
@@ -49,3 +50,6 @@ A fully responsive vintage car showcase website with:
 - CSRF token protection on all POST forms
 - Session regeneration on login
 - Upload validation (size, extension, MIME)
+=======
+# Software-Engineering-Project
+>>>>>>> 677ab6a6340896e7a863c31913cf754e7bcf1c62
